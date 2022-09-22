@@ -1,0 +1,8 @@
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\2 ejerciciosCurso\ClasesEjercicio8\obj\Debug\ClasesEjercicio8.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\2 ejerciciosCurso\ClasesEjercicio8\obj\Debug\ClasesEjercicio8.csproj.SuggestedBindingRedirects.cache
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\2 ejerciciosCurso\ClasesEjercicio8\obj\Debug\ClasesEjercicio8.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\2 ejerciciosCurso\ClasesEjercicio8\bin\Debug\ClasesEjercicio8.exe.config
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\2 ejerciciosCurso\ClasesEjercicio8\bin\Debug\ClasesEjercicio8.exe
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\2 ejerciciosCurso\ClasesEjercicio8\bin\Debug\ClasesEjercicio8.pdb
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\2 ejerciciosCurso\ClasesEjercicio8\obj\Debug\ClasesEjercicio8.exe
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\2 ejerciciosCurso\ClasesEjercicio8\obj\Debug\ClasesEjercicio8.pdb
